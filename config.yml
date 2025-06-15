@@ -56,7 +56,7 @@ params:
           enabled: true
           title: Professor Dr von Igelfeld
           subtitle: "I am an assistant professor at the Faculty of Finance, City University of Macau. My research interests are in econometrics, both theoretical and applied. Recent works focus primarily on the series estimation of time-varying parameter models with non stationary data."
-          imageUrl: "picture.jpeg"
+          imageUrl: "YuBai.jpg"
           imageWidth: 160
           imageHeight: 160
           buttons:
@@ -79,7 +79,7 @@ params:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:igelfeld@regensburg.edu
+          url: mailto:yubai@cityu.edu.mo
         - name: Zoom
           url: https://www.zoom.us/my/igelfeld
         - name: Location
