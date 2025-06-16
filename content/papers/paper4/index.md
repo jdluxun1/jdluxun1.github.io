@@ -3,8 +3,8 @@ title: "Local GMM Estimation for Nonparametric Time-Varying Coefficient Moment C
 date: 2025-02-09
 tags: ["large heterogeneous panels","time-varying parameters","mean group estimator"]
 author: ["Yu Bai"]
-description: "This paper considers a large heterogeneous panel data models with time-varying parameters and endogenous regressors. Published in the Econometrics and Statistics, forthcoming." 
-summary: "This paper considers a large heterogeneous panel data models with time-varying parameters and endogenous regressors. Kernel-based non-parametric time-varying parameter instrumental variable mean group (TVP-IV-MG) estimator is proposed for the time-varying cross-sectional mean coefficients. " 
+description: "This paper develops a local continuously updated GMM estimator for nonparametric time-varying coefficient moment condition models. Published in the Journal of Time Series Analysis, forthcoming." 
+summary: "This paper develops a local continuously updated GMM estimator for nonparametric time-varying coefficient moment condition models." 
 cover:
     image: ""
     alt: "Vizualisation of an inner hedgehog"
