@@ -30,6 +30,10 @@ This course covers topics related to time series and panel data models. Topics i
 ## Lecture slides
 
 + [Lec 1](slides/Lec1.pdf)
++ [Lec 2](slides/Lec2.pdf)
++ [Lec 3](slides/Lec3.pdf)
++ [Lec 4](slides/Lec4.pdf)
++ [Lec 5](slides/Lec5.pdf)
   
 ---
 
