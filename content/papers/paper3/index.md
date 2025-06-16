@@ -1,10 +1,10 @@
 ---
 title: "Mean group instrumental variable estimation of time-varying large heterogeneous panels with endogenous regressors" 
 date: 2023-06-22
-tags: ["social psychology","inner hedgehog","academia","experimental psychology","invasive thoughts"]
+tags: ["large heterogeneous panels","time-varying parameters","mean group estimator"]
 author: ["Yu Bai", "Massimiliano Marcellino", "George Kapetanios"]
-description: "This paper describes the inner hedgehog, a psychological condition widespread in academia. Published in the Econometrics and Statistics, forthcoming." 
-summary: "Using several case studies, this paper describes the inner hedgehog, a psychological condition widespread in academic occupations. The condition has lasting consequences and no known cure." 
+description: "This paper considers a large heterogeneous panel data models with time-varying parameters and endogenous regressors. Published in the Econometrics and Statistics, forthcoming." 
+summary: "This paper considers a large heterogeneous panel data models with time-varying parameters and endogenous regressors. Kernel-based non-parametric time-varying parameter instrumental variable mean group (TVP-IV-MG) estimator is proposed for the time-varying cross-sectional mean coefficients. " 
 cover:
     image: ""
     alt: "Vizualisation of an inner hedgehog"
@@ -19,8 +19,7 @@ editPost:
 
 ##### Download
 
-+ [Paper](paper3.pdf)
-+ [Raw data](https://github.com/pmichaillat/michez-rule)
++ [Paper](https://www.sciencedirect.com/science/article/abs/pii/S2452306223000412)
 
 ---
 
@@ -32,21 +31,15 @@ The large heterogeneous panel data models are extended to the setting where the 
 
 ##### Citation
 
-Schreiber-Ziegler, Hilda, and Moritz-Maria von Igelfeld. 2021. "Your Inner Hedgehog." *Journal of Socio-Experimental Psychology* 131 (2): 1299–1302.
+Bai, Y., Marcellino, M., & Kapetanios, G. (2023). Mean group instrumental variable estimation of time-varying large heterogeneous panels with endogenous regressors. Econometrics and Statistics, *forthcoming*.
+
 
 ```BibTeX
-@article{SZI21,
-author = {Hilda Schreiber-Ziegler and Moritz-Maria von Igelfeld},
-year = {2021},
-title ={Your Inner Hedgehog},
-journal = {Journal of Socio-Experimental Psychology},
-volume = {131},
-number = {2},
-pages = {1299--1302}}
+@article{bai2023mean,
+  title={Mean group instrumental variable estimation of time-varying large heterogeneous panels with endogenous regressors},
+  author={Bai, Yu and Marcellino, Massimiliano and Kapetanios, George},
+  journal={Econometrics and Statistics},
+  year={2023},
+  publisher={Elsevier}}
 ```
 
----
-
-##### Related material
-
-+ [Nontechnical summary](https://www.alexandermccallsmith.com/book/your-inner-hedgehog)
