@@ -11,7 +11,7 @@ cover:
     relative: true
 editPost:
     URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Socio-Experimental Psychology"
+    Text: "Econometrics and Statistics"
 
 ---
 
