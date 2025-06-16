@@ -34,23 +34,18 @@ In this paper, we propose a hierarchical shrinkage approach for multi-country VA
 
 ##### Citation
 
-Prinzel, Florianus, and Moritz-Maria von Igelfeld. 2004. "The Finer Points of Sausage Dogs." *Journal of Canine Science* 43 (2): 89–109. http://www.alexandermccallsmith.com/book/the-finer-points-of-sausage-dogs.
+Bai, Y., Carriero, A., Clark, T. E., & Marcellino, M. (2022). Macroeconomic forecasting in a multi‐country context. Journal of Applied Econometrics, 37(6), 1230-1255.
 
 ```BibTeX
-@article{PI04,
-author = {Florianus Prinzel and Moritz-Maria von Igelfeld},
-year = {2004},
-title ={The Finer Points of Sausage Dogs},
-journal = {Journal of Canine Science},
-volume = {43},
-number = {2},
-pages = {89--109},
-url = {http://www.alexandermccallsmith.com/book/the-finer-points-of-sausage-dogs}}
+@article{bai2022macroeconomic,
+  title={Macroeconomic forecasting in a multi-country context},
+  author={Bai, Yu and Carriero, Andrea and Clark, Todd E and Marcellino, Massimiliano},
+  journal={Journal of Applied Econometrics},
+  volume={37},
+  number={6},
+  pages={1230--1255},
+  year={2022},
+  publisher={Wiley Online Library}}
 ```
 
----
 
-##### Related material
-
-+ [Presentation slides](presentation2.pdf)
-+ [Wikipedia entry](https://en.wikipedia.org/wiki/The_Finer_Points_of_Sausage_Dogs)
