@@ -4,7 +4,7 @@ date: 2025-06-16
 tags: ["econometrics","financial econometrics"]
 author: ["Yu Bai"]
 description: "This is a postgraduate econometrics course for master students in financial technology. " 
-summary: "This is a postgraduate level econometrics course designed for master students in financial technology." 
+summary: "This is a postgraduate econometrics course designed for master students in financial technology." 
 cover:
     image: ""
     alt: "Figure caption"
