@@ -1,6 +1,6 @@
 ---
 title: "Mean group instrumental variable estimation of time-varying large heterogeneous panels with endogenous regressors" 
-date: 22-06-2023
+date: 2023-06-22
 tags: ["social psychology","inner hedgehog","academia","experimental psychology","invasive thoughts"]
 author: ["Yu Bai", "Massimiliano Marcellino", "George Kapetanios"]
 description: "This paper describes the inner hedgehog, a psychological condition widespread in academia. Published in the Econometrics and Statistics, forthcoming." 
