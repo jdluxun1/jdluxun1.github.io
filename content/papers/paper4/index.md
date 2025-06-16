@@ -1,7 +1,7 @@
 ---
 title: "Local GMM Estimation for Nonparametric Time-Varying Coefficient Moment Condition Models" 
 date: 2025-02-09
-tags: ["large heterogeneous panels","time-varying parameters","mean group estimator"]
+tags: ["continuously Updated GMM","time-varying parameters","nonparametric methods"]
 author: ["Yu Bai"]
 description: "This paper develops a local continuously updated GMM estimator for nonparametric time-varying coefficient moment condition models. Published in the Journal of Time Series Analysis, forthcoming." 
 summary: "This paper develops a local continuously updated GMM estimator for nonparametric time-varying coefficient moment condition models." 
