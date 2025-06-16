@@ -1,17 +1,17 @@
 ---
-title: "The Finer Points of Sausage Dogs" 
-date: 2004-12-28
+title: "Macroeconomic forecasting in a multi-country context" 
+date: 2022-07-02
 tags: ["zoology","sausage dogs","canine pulmonary efficiency","canine science","experimental zoology"]
 author: ["Florianus Prinzel", "Moritz-Maria von Igelfeld"]
 description: "This paper studies the pulmonary efficiency of sausage dogs. Published in the Journal of Canine Science, 2004." 
 summary: "This paper studies the pulmonary efficiency of sausage dogs through several experiments." 
 cover:
-    image: "paper2.png"
+    image: ""
     alt: "Dimensions of a sausage dog"
     relative: true
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Canine Science"
+    URL: "https://onlinelibrary.wiley.com/journal/10991255"
+    Text: "Journal of Applied Econometrics"
 
 ---
 
@@ -27,7 +27,7 @@ editPost:
 
 ##### Abstract
 
-This paper studies the pulmonary efficiency of sausage dogs. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur: $\sin(\theta) = x^2 - \exp(1+\chi)$. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor $\zeta$ incididunt ut labore et dolore magna aliqua: $p(x) = \int \cos(\zeta) d\zeta - \theta$. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+In this paper, we propose a hierarchical shrinkage approach for multi-country VAR models. In implementation, we consider three different scale mixtures Normals priors and provide new theoretical results. Empirically, we examine how model specifications and prior choices affect the forecasting performance for GDP growth, inflation, and a short-term interest rate for the G7 economies. We find that hierarchical shrinkage, particularly as implemented with the Horseshoe prior, is very useful in forecasting inflation. It also has the best density forecast performance for output growth and the interest rate. Multi-country models generally improve on the forecast accuracy of single-country models.
 
 ---
 
