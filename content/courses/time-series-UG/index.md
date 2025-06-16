@@ -3,8 +3,8 @@ title: "Time Series Analysis"
 date: 2025-06-16
 tags: ["time series","panel data"]
 author: ["Yu Bai"]
-description: "This is a third year undergraduate course for econometrics. Topics related to time series analysis and panel data models are covered" 
-summary: "This is a third year undergraduate course for econometrics. Topics related to time series analysis and panel data models are covered." 
+description: "This is a third year undergraduate course for econometrics. Topics related to estimation and inference of linear/nonlinear time series models, and panel data models are covered." 
+summary: "This is a third year undergraduate course for econometrics. Topics related to estimation and inference of linear/nonlinear time series models, and panel data models are covered." 
 cover:
     image: ""
     alt: "Figure caption"
