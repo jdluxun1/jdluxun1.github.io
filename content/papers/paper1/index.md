@@ -4,7 +4,7 @@ date: 2017-10-25
 tags: ["monte carlo studies","DPM-SEM","GMM","QMLE"]
 author: ["Yu Bai","Shaofu Zhou","Zhaoyuan Fan"]
 description: "This paper proposes a generalized spatial system GMM (SGMM) estimation for short dynamic panel data models with spatial errors and fixed effects. Published in the Journal of Statistical Computation and Simulation, 2018." 
-summary: "This paper proposes a generalized spatial system GMM (SGMM) estimation for short dynamic panel data models with spatial errors and fixed effects" 
+summary: "This paper proposes a generalized spatial system GMM (SGMM) estimation for short dynamic panel data models with spatial errors and fixed effects." 
 cover:
     image: ""
     alt: "Some Uses For Olive Oil"
