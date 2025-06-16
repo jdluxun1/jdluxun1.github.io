@@ -10,7 +10,7 @@ cover:
     alt: "Vizualisation of an inner hedgehog"
     relative: true
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
+    URL: "https://www.sciencedirect.com/journal/econometrics-and-statistics"
     Text: "Econometrics and Statistics"
 
 ---
