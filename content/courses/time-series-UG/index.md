@@ -1,5 +1,5 @@
 ---
-title: "Time Series Analysis" 
+title: "BAE302: Time Series Analysis" 
 date: 2025-06-16
 tags: ["time series","panel data"]
 author: ["Yu Bai"]
