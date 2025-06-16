@@ -4,7 +4,7 @@ date: 2025-06-16
 tags: ["time series","panel data"]
 author: ["Yu Bai"]
 description: "This is a third year undergraduate course offering an introduction to time series analysis and panel data models. " 
-summary: "This is a third year undergraduate course offering an introduction to time series analysis and panel data models, focusing on the basic theory and applications. Empirical examples are illustrated using Julia/Stata." 
+summary: "This is a third year undergraduate course offering an introduction to time series analysis and panel data models." 
 cover:
     image: ""
     alt: "Figure caption"
@@ -19,7 +19,7 @@ disableAnchoredHeadings: false
 
 ## Introduction
 
-This course covers topics related to time series and panel data models. Topics include:
+This course introduces basic theory and applications on time series and panel data models. Topics include:
 
 + estimation inference, and forecasting with linear time-series models;
 + nonstationary time-series models: unit root and cointegration; 
