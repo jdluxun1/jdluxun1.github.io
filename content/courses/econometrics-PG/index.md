@@ -1,5 +1,5 @@
 ---
-title: "Econometrics" 
+title: "MFT103: Econometrics" 
 date: 2025-06-16
 tags: ["econometrics","financial econometrics"]
 author: ["Yu Bai"]
