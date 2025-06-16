@@ -1,9 +1,9 @@
 ---
-title: "Your Inner Hedgehog" 
-date: 2021-04-06
+title: "Mean group instrumental variable estimation of time-varying large heterogeneous panels with endogenous regressors" 
+date: 22-06-2023
 tags: ["social psychology","inner hedgehog","academia","experimental psychology","invasive thoughts"]
-author: ["Hilda Schreiber-Ziegler", "Moritz-Maria von Igelfeld"]
-description: "This paper describes the inner hedgehog, a psychological condition widespread in academia. Published in the Journal of Socio-Experimental Psychology, 2021." 
+author: ["Yu Bai", "Massimiliano Marcellino", "George Kapetanios"]
+description: "This paper describes the inner hedgehog, a psychological condition widespread in academia. Published in the Econometrics and Statistics, forthcoming." 
 summary: "Using several case studies, this paper describes the inner hedgehog, a psychological condition widespread in academic occupations. The condition has lasting consequences and no known cure." 
 cover:
     image: "paper3.png"
@@ -26,7 +26,7 @@ editPost:
 
 ##### Abstract
 
-Using several case studies, this paper describes the inner hedgehog, a psychological condition widespread in academic occupations. The condition has lasting consequences and no known cure. Mauris tincidunt quam a libero consequat, nec pharetra nunc tristique. Pellentesque eget ipsum ut dui laoreet congue ut nec nulla. Nulla facilisi. Sed consequat, odio ac aliquet tempor, turpis augue auctor mauris, at malesuada sem dolor eget libero. Nullam iaculis malesuada risus, id fringilla quam sagittis ac. Fusce congue vel ex et facilisis. Integer volutpat eros ut urna efficitur, id efficitur sapien pharetra.
+The large heterogeneous panel data models are extended to the setting where the heterogenous coefficients are changing over time and the regressors are endogenous. Kernel-based non-parametric time-varying parameter instrumental variable mean group (TVP-IV-MG) estimator is proposed for the time-varying cross-sectional mean coefficients. The uniform consistency is shown and the pointwise asymptotic normality of the proposed estimator is derived. A data-driven bandwidth selection procedure is also proposed. The finite sample performance of the proposed estimator is investigated through a Monte Carlo study and an empirical application on multi-country Phillips curve with time-varying parameters.
 
 ---
 
