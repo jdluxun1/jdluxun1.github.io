@@ -1,17 +1,17 @@
 ---
-title: "Profanity in Early Irish" 
-date: 1990-06-16
-tags: ["Irish","philology","profanity","Celtic languages","language modernization"]
-author: ["Dieter Vogelsang","Moritz-Maria von Igelfeld"]
-description: "This undergraduate course discusses profanity in Early Irish." 
-summary: "This undergraduate course discusses profanity in Early Irish, and relates such profanity to profanity in modern English." 
+title: "Time Series Analysis" 
+date: 2025-06-16
+tags: ["time series","panel data"]
+author: ["Yu Bai"]
+description: "This is a third year undergraduate course for econometrics. Topics related to time series analysis and panel data models are covered" 
+summary: "This is a third year undergraduate course for econometrics. Topics related to time series analysis and panel data models are covered." 
 cover:
-    image: "course2.png"
+    image: ""
     alt: "Figure caption"
     relative: true
 editPost:
     URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Course portal"
+    Text: "Source files"
 showToc: true
 disableAnchoredHeadings: false
 
