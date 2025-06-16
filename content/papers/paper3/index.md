@@ -6,7 +6,7 @@ author: ["Yu Bai", "Massimiliano Marcellino", "George Kapetanios"]
 description: "This paper describes the inner hedgehog, a psychological condition widespread in academia. Published in the Econometrics and Statistics, forthcoming." 
 summary: "Using several case studies, this paper describes the inner hedgehog, a psychological condition widespread in academic occupations. The condition has lasting consequences and no known cure." 
 cover:
-    image: "paper3.png"
+    image: ""
     alt: "Vizualisation of an inner hedgehog"
     relative: true
 editPost:
