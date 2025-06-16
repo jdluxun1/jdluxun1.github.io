@@ -44,7 +44,7 @@ This course introduces basic theory and applications on time series and panel da
 + [Exercise 3]
 + [Exercise 4]  
 + [Exercise 5](assignments/Assignment5.pdf)  
-    + [Stata do file](assignments/Panel Data_Exercises.do)
+    + [Stata do file](assignments/PanelData_Exercises.do)
   
 ---
 
