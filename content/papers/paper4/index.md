@@ -20,6 +20,7 @@ editPost:
 ##### Download
 
 + [Paper](https://doi.org/10.1111/jtsa.12822)
++ [Online appendix](jtsa12822-sup-0001-supinfo.pdf)
 
 ---
 
