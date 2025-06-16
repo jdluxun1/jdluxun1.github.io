@@ -3,8 +3,8 @@ title: "Econometrics"
 date: 2025-06-16
 tags: ["econometrics","financial econometrics"]
 author: ["Yu Bai"]
-description: "This is a postgraduate course . " 
-summary: "This is a third year undergraduate course offering an introduction to time series analysis and panel data models, focusing on the basic theory and applications. Empirical examples are illustrated using Julia/Stata." 
+description: "This is a postgraduate econometrics course for master students in financial technology. " 
+summary: "This is a postgraduate level econometrics course designed for master students in financial technology." 
 cover:
     image: ""
     alt: "Figure caption"
@@ -19,12 +19,12 @@ disableAnchoredHeadings: false
 
 ## Introduction
 
-This course covers topics related to time series and panel data models. Topics include:
+The course offers an introduction to fundamental elements in the time series aspects of financial econometrics, focusing on the basic theory and related applications. The following topics are covered in details:
 
-+ estimation inference, and forecasting with linear time-series models;
-+ nonstationary time-series models: unit root and cointegration; 
-+ pooled and fixed-effects panel data models;
-+ instrumental variable regression (*if there is enough time*). 
++ asset returns;
++ linear time series models;
++ heteroskedastic volatility models;
++ multivariate time series analysis (*if there is enough time*). 
 ---
 
 ## Lecture slides
@@ -32,5 +32,6 @@ This course covers topics related to time series and panel data models. Topics i
 + [Lec 1]
 + [Lec 2]
 + [Lec 3]
++ [Lec 4]
   
 ---
