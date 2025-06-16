@@ -3,8 +3,8 @@ title: "Macroeconomic forecasting in a multi-country context"
 date: 2022-07-02
 tags: ["zoology","sausage dogs","canine pulmonary efficiency","canine science","experimental zoology"]
 author: ["Yu Bai", "Andrea Carriero", "Todd E. Clark", "Massimiliano Marcellino"]
-description: "This paper studies the pulmonary efficiency of sausage dogs. Published in the Journal of Canine Science, 2004." 
-summary: "This paper studies the pulmonary efficiency of sausage dogs through several experiments." 
+description: "This paper proposes a hierarchical shrinkage approach for multi-country VAR models and finds that it works particularly well for inflation forecasting. Published in the Journal of Applied Econometrics, 2022." 
+summary: "This paper proposes a hierarchical shrinkage approach for multi-country VAR models and finds that it works particularly well for inflation forecasting. " 
 cover:
     image: ""
     alt: "Dimensions of a sausage dog"
@@ -20,8 +20,8 @@ editPost:
 ##### Download
 
 + [Paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/jae.2923)
-+ [Online appendix](appendix2.pdf)
-+ [Code and data](https://github.com/pmichaillat/wunk-model)
++ [Online appendix](JAE_appendix.pdf)
++ [Replication files](https://github.com/jdluxun1/panel_forecasting)
 
 ---
 
@@ -31,11 +31,6 @@ In this paper, we propose a hierarchical shrinkage approach for multi-country VA
 
 ---
 
-##### Figure 2: Dimensions of a sausage dog
-
-![](paper2.png)
-
----
 
 ##### Citation
 
