@@ -19,13 +19,12 @@ disableAnchoredHeadings: false
 
 ## Introduction
 
-This course covers topics related to profanity in Early Irish. It relates such profanity to profanity in modern English:
+This course covers topics related to time series and panel data models. Topics include:
 
-+ Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-+ Sed fermentum turpis nec dolor dapibus, ac commodo enim consequat. 
-+ Suspendisse potenti. Integer ac mauris nec ligula finibus ullamcorper. 
-+ Phasellus rutrum enim in nunc aliquam mollis. 
-+ Vivamus auctor nunc ac augue dapibus, in fermentum enim hendrerit. Duis et ultrices sem, eget efficitur lacus. 
++ estimation inference, and forecasting with linear time-series models;
++ nonstationary time-series models: unit root and cointegration; 
++ pooled and fixed-effects panel data models;
++ instrumental variable regression (*if there is enough time*). 
 
 ##### Introductory video
 
