@@ -1,7 +1,7 @@
 ---
 title: "Macroeconomic forecasting in a multi-country context" 
 date: 2022-07-02
-tags: ["zoology","sausage dogs","canine pulmonary efficiency","canine science","experimental zoology"]
+tags: ["hierarchical shrinkage","macroeconomic forecasting","multi-country VARs"]
 author: ["Yu Bai", "Andrea Carriero", "Todd E. Clark", "Massimiliano Marcellino"]
 description: "This paper proposes a hierarchical shrinkage approach for multi-country VAR models and finds that it works particularly well for inflation forecasting. Published in the Journal of Applied Econometrics, 2022." 
 summary: "This paper proposes a hierarchical shrinkage approach for multi-country VAR models and finds that it works particularly well for inflation forecasting. " 
