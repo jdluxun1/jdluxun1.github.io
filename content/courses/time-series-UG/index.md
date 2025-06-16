@@ -10,7 +10,7 @@ cover:
     alt: "Figure caption"
     relative: true
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
+    URL: ""
     Text: "Source files"
 showToc: true
 disableAnchoredHeadings: false
