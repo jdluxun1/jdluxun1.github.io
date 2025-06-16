@@ -2,7 +2,7 @@
 title: "Macroeconomic forecasting in a multi-country context" 
 date: 2022-07-02
 tags: ["zoology","sausage dogs","canine pulmonary efficiency","canine science","experimental zoology"]
-author: ["Florianus Prinzel", "Moritz-Maria von Igelfeld"]
+author: ["Yu Bai", "Andrea Carriero", "Todd E. Clark", "Massimiliano Marcellino"]
 description: "This paper studies the pulmonary efficiency of sausage dogs. Published in the Journal of Canine Science, 2004." 
 summary: "This paper studies the pulmonary efficiency of sausage dogs through several experiments." 
 cover:
@@ -19,7 +19,7 @@ editPost:
 
 ##### Download
 
-+ [Paper](paper2.pdf)
++ [Paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/jae.2923)
 + [Online appendix](appendix2.pdf)
 + [Code and data](https://github.com/pmichaillat/wunk-model)
 
