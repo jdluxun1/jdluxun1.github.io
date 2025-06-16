@@ -32,14 +32,14 @@ We develop a local continuously updated GMM estimator for nonparametric time-var
 
 ##### Citation
 
-Bai, Y., Marcellino, M., & Kapetanios, G. (2023). Mean group instrumental variable estimation of time-varying large heterogeneous panels with endogenous regressors. Econometrics and Statistics, *forthcoming*.
+Bai, Y. (2025). Local GMM Estimation for Nonparametric Time‐Varying Coefficient Moment Condition Models. Journal of Time Series Analysis, *forthcoming*.
 
 
 ```BibTeX
-@article{bai2023mean,
-  title={Mean group instrumental variable estimation of time-varying large heterogeneous panels with endogenous regressors},
-  author={Bai, Yu and Marcellino, Massimiliano and Kapetanios, George},
-  journal={Econometrics and Statistics},
-  year={2023},
-  publisher={Elsevier}}
+@article{bai2025local,
+  title={Local GMM Estimation for Nonparametric Time-Varying Coefficient Moment Condition Models},
+  author={Bai, Yu},
+  journal={Journal of Time Series Analysis},
+  year={2025},
+  publisher={Wiley Online Library}}
 ```
