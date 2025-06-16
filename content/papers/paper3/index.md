@@ -4,7 +4,7 @@ date: 2023-06-22
 tags: ["large heterogeneous panels","time-varying parameters","mean group estimator"]
 author: ["Yu Bai", "Massimiliano Marcellino", "George Kapetanios"]
 description: "This paper considers a large heterogeneous panel data models with time-varying parameters and endogenous regressors. Published in the Econometrics and Statistics, forthcoming." 
-summary: "This paper considers a large heterogeneous panel data models with time-varying parameters and endogenous regressors. Kernel-based non-parametric time-varying parameter instrumental variable mean group (TVP-IV-MG) estimator is proposed for the time-varying cross-sectional mean coefficients. " 
+summary: "This paper considers a large heterogeneous panel data models with time-varying parameters and endogenous regressors." 
 cover:
     image: ""
     alt: "Vizualisation of an inner hedgehog"
