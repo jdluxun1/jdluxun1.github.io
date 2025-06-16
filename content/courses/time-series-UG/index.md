@@ -3,8 +3,8 @@ title: "Time Series Analysis"
 date: 2025-06-16
 tags: ["time series","panel data"]
 author: ["Yu Bai"]
-description: "This is a third year undergraduate course offering an introduction of time series analysis and panel data models. " 
-summary: "This is a third year undergraduate course offering an introduction of time series analysis and panel data models." 
+description: "This is a third year undergraduate course offering an introduction to time series analysis and panel data models. " 
+summary: "This is a third year undergraduate course offering an introduction to time series analysis and panel data models, focusing on the basic theory and applications. Empirical examples are illustrated using Julia/Stata." 
 cover:
     image: ""
     alt: "Figure caption"
