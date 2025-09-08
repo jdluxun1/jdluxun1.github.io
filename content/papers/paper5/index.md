@@ -3,8 +3,8 @@ title: "Optimal bandwidth selection for forecasting under parameter instability"
 date: 2025-09-08
 tags: ["Local estimator","Bandwidth selection","Optimal kernel","Bond return predictability","Yield curve forecasting"]
 author: ["Yu Bai","Bin Peng","Shuping Shi","Wenying Yao"]
-description: "This paper develops a local continuously updated GMM estimator for nonparametric time-varying coefficient moment condition models. Published in the Journal of Time Series Analysis, forthcoming." 
-summary: "This paper develops a local continuously updated GMM estimator for nonparametric time-varying coefficient moment condition models." 
+description: "This paper investigates practical issues associated with the use of the local estimator in forecasting models subject to parameter instability. Revise and Resubmit at the Journal of Financial Econometrics." 
+summary: "This paper investigates practical issues associated with the use of the local estimator in forecasting models subject to parameter instability." 
 cover:
     image: ""
     alt: "Vizualisation of an inner hedgehog"
@@ -19,27 +19,14 @@ editPost:
 
 ##### Download
 
-+ [Paper](https://doi.org/10.1111/jtsa.12822)
-+ [Online appendix](jtsa12822-sup-0001-supinfo.pdf)
++ [Working Paper](BPSY_NPforecast.pdf)
 
 ---
 
 ##### Abstract
 
-We develop a local continuously updated GMM estimator for nonparametric time-varying coefficient moment condition models. The uniform consistency rate and the pointwise asymptotic normality of the proposed estimator are derived. Implementation issues regarding bandwidth selection, construction of pointwise confidence intervals, and testing for overidentifying restrictions are discussed. The finite sample performance of the proposed estimator and test statistic are investigated through a Monte Carlo study and an empirical application on asset pricing models with stochastic discount factor (SDF) representation.
+This paper investigates practical issues associated with the use of the local estimator in forecasting models subject to parameter instability. We propose a bandwidth selection procedure for out-of-sample forecasting, derived by minimizing the conditional expected end-of-sample loss, and show that it is asymptotically optimal. We further discuss the implications on the choice of kernel functions and derive the optimal kernel. Theoretical properties are assessed through an extensive Monte Carlo study and three empirical applications: bond return predictability, yield curve forecasting, and real-time inflation forecasting, which demonstrate the superior performance of the local estimator with the proposed optimal bandwidth selection.
 
 ---
 
-##### Citation
 
-Bai, Y. (2025). Local GMM Estimation for Nonparametric Time‐Varying Coefficient Moment Condition Models. Journal of Time Series Analysis, *forthcoming*.
-
-
-```BibTeX
-@article{bai2025local,
-  title={Local GMM Estimation for Nonparametric Time-Varying Coefficient Moment Condition Models},
-  author={Bai, Yu},
-  journal={Journal of Time Series Analysis},
-  year={2025},
-  publisher={Wiley Online Library}}
-```
