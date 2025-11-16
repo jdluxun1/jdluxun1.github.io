@@ -3,7 +3,7 @@ title: "Optimal bandwidth selection for forecasting under parameter instability"
 date: 2025-09-08
 tags: ["Local estimator","Bandwidth selection","Optimal kernel","Bond return predictability","Yield curve forecasting"]
 author: ["Yu Bai","Bin Peng","Shuping Shi","Wenying Yao"]
-description: "This paper investigates practical issues associated with the use of the local estimator in forecasting models subject to parameter instability. Revise and Resubmit at the Journal of Financial Econometrics." 
+description: "This paper investigates practical issues associated with the use of the local estimator in forecasting models subject to parameter instability. Revised and Resubmited at the Journal of Financial Econometrics." 
 summary: "This paper investigates practical issues associated with the use of the local estimator in forecasting models subject to parameter instability." 
 cover:
     image: ""
@@ -19,7 +19,7 @@ editPost:
 
 ##### Download
 
-+ [Working Paper](BPSY_NPforecast.pdf)
++ [Working Paper](BPSY_Vr.pdf)
 
 ---
 
