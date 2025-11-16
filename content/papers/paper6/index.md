@@ -1,7 +1,7 @@
 ---
 title: "Series Estimation of Cointegrated System with Time Varying Coefficients" 
 date: 2025-11-17
-tags: ["Series estimation","Cointegrated system","Time-varying coefficients"]
+tags: ["Series estimation","Cointegrated system","Time varying coefficients"]
 author: ["Yu Bai","Jiti Gao","Hsein Kew"]
 description: "This paper proposes a series estimation method for cointegrated system with time varying coefficients and consistent test for structural change in the cointegrated system." 
 summary: "This paper proposes a series estimation method for cointegrated system with time varying coefficients and consistent test for structural change in the cointegrated system." 
