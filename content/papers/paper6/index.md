@@ -1,10 +1,10 @@
 ---
-title: "Optimal bandwidth selection for forecasting under parameter instability" 
-date: 2025-09-08
-tags: ["Local estimator","Bandwidth selection","Optimal kernel","Bond return predictability","Yield curve forecasting"]
-author: ["Yu Bai","Bin Peng","Shuping Shi","Wenying Yao"]
-description: "This paper investigates practical issues associated with the use of the local estimator in forecasting models subject to parameter instability. Revised and Resubmited at the Journal of Financial Econometrics." 
-summary: "This paper investigates practical issues associated with the use of the local estimator in forecasting models subject to parameter instability." 
+title: "Series Estimation of Cointegrated System with Time Varying Coefficients" 
+date: 2025-11-17
+tags: ["Series estimation","Cointegrated system","Time-varying coefficients"]
+author: ["Yu Bai","Jiti Gao","Hsein Kew"]
+description: "This paper proposes a series estimation method for cointegrated system with time varying coefficients and consistent test for structural change in the cointegrated system." 
+summary: "This paper proposes a series estimation method for cointegrated system with time varying coefficients and consistent test for structural change in the cointegrated system." 
 cover:
     image: ""
     alt: "Vizualisation of an inner hedgehog"
@@ -19,13 +19,13 @@ editPost:
 
 ##### Download
 
-+ [Working Paper](BPSY_Vr.pdf)
++ [Presentation slides](BGK_v1_presentation.pdf)
 
 ---
 
 ##### Abstract
 
-This paper investigates practical issues associated with the use of the local estimator in forecasting models subject to parameter instability. We propose a bandwidth selection procedure for out-of-sample forecasting, derived by minimizing the conditional expected end-of-sample loss, and show that it is asymptotically optimal. We further discuss the implications on the choice of kernel functions and derive the optimal kernel. Theoretical properties are assessed through an extensive Monte Carlo study and three empirical applications: bond return predictability, yield curve forecasting, and real-time inflation forecasting, which demonstrate the superior performance of the local estimator with the proposed optimal bandwidth selection.
+Available soon.
 
 ---
 
