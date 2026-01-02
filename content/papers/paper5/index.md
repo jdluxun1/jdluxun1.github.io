@@ -11,7 +11,7 @@ cover:
     relative: true
 editPost:
     URL: "https://academic.oup.com/jfec"
-    Text: "Journal of Financial Econometrics", *conditionally accepted*
+    Text: "Journal of Financial Econometrics, *conditionally accepted*" 
 
 ---
 
