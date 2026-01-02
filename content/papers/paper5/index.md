@@ -10,8 +10,8 @@ cover:
     alt: "Vizualisation of an inner hedgehog"
     relative: true
 editPost:
-    URL: ""
-    Text: ""
+    URL: "https://academic.oup.com/jfec"
+    Text: "Journal of Financial Econometrics", *conditionally accepted*
 
 ---
 
