@@ -19,7 +19,8 @@ editPost:
 
 ##### Download
 
-+ [Presentation slides](BGK_v1_presentation.pdf)
++ [Main](article.pdf)
++ [Online Supplement](online_supplement.pdf)
 
 ---
 
