@@ -21,7 +21,6 @@ editPost:
 
 + [Main](article.pdf)
 + [Online Supplement](online_supplement.pdf)
-
 ---
 
 ##### Abstract
