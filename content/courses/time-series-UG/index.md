@@ -29,11 +29,11 @@ This course introduces basic theory and applications on time series and panel da
 
 ## Lecture slides
 
-+ [Lec 1](slides/Lec1.pdf)
-+ [Lec 2](slides/Lec2.pdf)
-+ [Lec 3](slides/Lec3.pdf)
-+ [Lec 4](slides/Lec4.pdf)
-+ [Lec 5](slides/Lec5.pdf)
++ [Lec 1]
++ [Lec 2]
++ [Lec 3]
++ [Lec 4]
++ [Lec 5]
   
 ---
 
