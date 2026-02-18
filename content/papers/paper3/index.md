@@ -31,15 +31,18 @@ The large heterogeneous panel data models are extended to the setting where the 
 
 ##### Citation
 
-Bai, Y., Marcellino, M., & Kapetanios, G. (2023). Mean group instrumental variable estimation of time-varying large heterogeneous panels with endogenous regressors. Econometrics and Statistics, *forthcoming*.
+Bai, Y., Marcellino, M., & Kapetanios, G. (2026). Mean group instrumental variable estimation of time-varying large heterogeneous panels with endogenous regressors. Econometrics and Statistics, 37(C), 26-41.
 
 
 ```BibTeX
-@article{bai2023mean,
+@article{bai2026mean,
   title={Mean group instrumental variable estimation of time-varying large heterogeneous panels with endogenous regressors},
   author={Bai, Yu and Marcellino, Massimiliano and Kapetanios, George},
   journal={Econometrics and Statistics},
-  year={2023},
+  volume={37},
+  number={C},
+  pages={26--41},
+  year={2026},
   publisher={Elsevier}}
 ```
 
