@@ -18,8 +18,8 @@ editPost:
 ---
 
 ##### Download
-
-+ [Working Paper](BPSY_Vr.pdf)
++ [Paper]
++ [Online supplement](nbag001_supplementary_data.pdf)
 
 ---
 
