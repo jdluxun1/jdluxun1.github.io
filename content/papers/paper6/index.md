@@ -1,8 +1,8 @@
 ---
 title: "Nonparametric Series Estimation of Cointegrated Systems with Time–Varying Coefficients" 
-date: 2026-02-14
-tags: ["Time–varying cointegration","Near integration","Mild integration","Local level regression"]
-author: ["Yu Bai","Hsein Kew"]
+date: 2026-10-08
+tags: ["series estimation","asymptotic efficiency","SDOLS estimator","consumption–wealth ratio"]
+author: ["Yu Bai","Jiti Gao","Hsein Kew"]
 description: "We develop a nonparametric series estimation framework for cointegrated systems with time-varying coefficients and propose an easy-to-implement, asymptotically efficient extension of the dynamic OLS estimator." 
 summary: "We develop a nonparametric series estimation framework for cointegrated systems with time-varying coefficients and propose an easy-to-implement, asymptotically efficient extension of the dynamic OLS estimator." 
 cover:
