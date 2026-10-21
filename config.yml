@@ -47,7 +47,8 @@ params:
     profileMode:
           enabled: true
           title: Dr. Yu Bai
-          subtitle: "I am an Assistant Professor at the Faculty of Finance, City University of Macau. My research interests are in econometrics, both theoretical and applied. Recent works focus on the estimation of time-varying parameter models with non-stationary data and treatment effects estimation with factor models."
+          subtitle: "I am an Assistant Professor at the Faculty of Finance, City University of Macau. My research interests are in econometrics, both theoretical and applied. My recent research focuses on estimation and inference in time-varying parameter models with nonstationary data, as well as the identification and estimation of treatment effects in panel models with interactive fixed effects.
+ models."
           imageUrl: "YB.png"
           imageWidth: 160
           imageHeight: 160
